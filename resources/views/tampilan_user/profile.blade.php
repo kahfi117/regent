@@ -69,6 +69,7 @@
     <!-- header-end -->
     {{-- @yield('slider') --}}
     @yield('profile')
+    @yield('content')
 
     
     @include('tampilan_local.template.footer')

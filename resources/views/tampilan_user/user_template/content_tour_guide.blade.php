@@ -29,7 +29,7 @@
                     <div class="col-lg-3 col-md-6">
                         <div class="single_place">
                             <div class="thumb">
-                                <img src="{{ url('/regent_user/img/team/1.png') }}" alt="" style="max-width: 10cm" >
+                                <img src="{{ url('/regent_user/img/team/1.png') }}" alt="" width="50px" height="300px">
                             </div>
                             <div class="place_info">
                                 <a href="#"><h3>NAMA</h3>
@@ -40,7 +40,7 @@
                     <div class="col-lg-3 col-md-6">
                         <div class="single_place">
                             <div class="thumb">
-                                <img src="{{ url('/regent_user/img/banner/background1.png') }}" alt="max-width: 10cm">
+                                <img src="{{ url('/regent_user/img/banner/background1.png') }}" width="50px" height="300px">
                             </div>
                             <div class="place_info">
                                 <a href="#"><h3>NAMA</h3>

@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('tampilan_user.profile')
 
 @section('content')
 <div class="container">

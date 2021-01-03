@@ -23,7 +23,7 @@
                                         <div class="card">
                                             <div class="card-body">
                                                 <center>
-                                                    <img src="{{url('regent_user/img/team/1.png')}}" style="width : 80%; height : 80%; border-radius: 10%; display: inline-block;"> <br><br>    
+                                                    <img src="{{url('regent_user/img/team/1.png')}}" style="width : 100px; height : 100px; border-radius: 150%; display: inline-block;"> <br><br>    
                                                     <button type="button" data-toggle="modal" data-target="#EditProfile" class="btn btn-outline-success">EDIT PROFILE</button>
                                                 </center>
                                             </div>

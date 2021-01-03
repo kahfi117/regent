@@ -8,7 +8,7 @@
                         <div class="col-xl-1 col-lg-2">
                             <div class="logo">
                                 <a href="{{route('user')}}">
-                                    <img src="{{url('regent_user/img/Rlogo.png')}}" alt="" style="max-width: 100%">
+                                    <img src="{{url('regent_user/img/Rlogo.png')}}" alt="" width="150px" height="30px">
                                 </a>
                             </div>
                         </div>

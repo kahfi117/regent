@@ -25,6 +25,8 @@
     <link rel="stylesheet" href="regent_user/css/slicknav2.css">
     <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css">
 
+    @include('tampilan_admin.template.header')
+
     <link rel="stylesheet" href="regent_user/css/style2.css">
     <!-- <link rel="stylesheet" href="css/responsive.css"> -->
 </head> 
@@ -72,6 +74,15 @@
     @yield('video')
     @yield('popular')
     @yield('places')
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 m-5">
+                <center>
+                    @yield('content')
+                </center>
+            </div>
+        </div>
+    </div>
 
 
     @include('tampilan_local.template.footer')
